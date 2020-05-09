@@ -3,3 +3,4 @@
 ## 2020-01-19 20:26:33 - feat(db): add db support (2/20)
 ## 2020-01-25 16:55:23 - feat(monitor): add monitor support (20/20)
 ## 2020-04-12 18:59:09 - feat(deploy): add deploy support (1/20)
+## 2020-05-09 14:18:13 - feat(build): add build endpoint (13/20)
