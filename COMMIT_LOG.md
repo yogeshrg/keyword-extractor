@@ -7,3 +7,4 @@
 ## 2020-06-13 18:40:27 - feat(ui): add ui support (17/20)
 ## 2020-07-11 20:20:13 - feat(deploy): create deploy handler (6/20)
 ## 2020-10-03 11:12:58 - feat(ui): implement ui module (19/20)
+## 2020-11-23 16:13:43 - feat(config): add config support
