@@ -9,3 +9,4 @@
 ## 2020-10-03 11:12:58 - feat(ui): implement ui module (19/20)
 ## 2020-11-23 16:13:43 - feat(config): add config support
 ## 2021-01-16 15:35:56 - feat(docs): create docs handler (15/20)
+## 2021-01-23 15:43:50 - feat(data): add data endpoint (17/20)
