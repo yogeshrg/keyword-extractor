@@ -12,3 +12,4 @@
 ## 2021-01-23 15:43:50 - feat(data): add data endpoint (17/20)
 ## 2021-03-07 23:38:52 - feat(log): implement log feature (9/20)
 ## 2021-04-04 21:51:11 - feat(build): implement build module (19/20)
+## 2021-07-03 17:10:44 - feat(api): add api support (3/20)
