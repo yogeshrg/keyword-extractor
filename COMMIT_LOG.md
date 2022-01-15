@@ -15,3 +15,4 @@
 ## 2021-07-03 17:10:44 - feat(api): add api support (3/20)
 ## 2021-08-08 23:17:25 - feat(build): implement build module (9/20)
 ## 2021-09-12 18:54:13 - feat(config): add config endpoint (7/20)
+## 2022-01-15 16:32:09 - feat(deploy): add deploy endpoint (12/20)
