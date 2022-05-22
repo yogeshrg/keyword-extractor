@@ -18,3 +18,4 @@
 ## 2022-01-15 16:32:09 - feat(deploy): add deploy endpoint (12/20)
 ## 2022-04-10 17:09:12 - feat(db): add db support (6/20)
 ## 2022-05-07 23:20:47 - feat(worker): add worker support (5/20)
+## 2022-05-22 22:06:25 - feat(config): implement config module (9/20)
