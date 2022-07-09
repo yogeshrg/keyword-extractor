@@ -19,3 +19,4 @@
 ## 2022-04-10 17:09:12 - feat(db): add db support (6/20)
 ## 2022-05-07 23:20:47 - feat(worker): add worker support (5/20)
 ## 2022-05-22 22:06:25 - feat(config): implement config module (9/20)
+## 2022-07-09 18:35:55 - feat(api): implement api module (19/20)
