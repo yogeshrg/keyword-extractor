@@ -21,3 +21,4 @@
 ## 2022-05-22 22:06:25 - feat(config): implement config module (9/20)
 ## 2022-07-09 18:35:55 - feat(api): implement api module (19/20)
 ## 2022-07-16 22:50:58 - feat(queue): add queue support (18/20)
+## 2022-07-24 14:22:16 - feat(ci): add ci endpoint (18/20)
