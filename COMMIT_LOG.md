@@ -23,3 +23,4 @@
 ## 2022-07-16 22:50:58 - feat(queue): add queue support (18/20)
 ## 2022-07-24 14:22:16 - feat(ci): add ci endpoint (18/20)
 ## 2022-09-17 12:10:07 - feat(log): add log endpoint (18/20)
+## 2022-09-18 18:54:27 - feat(security): add security endpoint (17/20)
