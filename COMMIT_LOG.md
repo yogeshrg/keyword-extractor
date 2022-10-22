@@ -26,3 +26,4 @@
 ## 2022-09-18 18:54:27 - feat(security): add security endpoint (17/20)
 ## 2022-10-02 11:36:09 - feat(auth): add auth support (8/20)
 ## 2022-10-02 14:23:20 - feat(auth): implement auth module (11/20)
+## 2022-10-22 23:55:36 - feat(security): implement security module (7/20)
