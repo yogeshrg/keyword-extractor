@@ -28,3 +28,4 @@
 ## 2022-10-02 14:23:20 - feat(auth): implement auth module (11/20)
 ## 2022-10-22 23:55:36 - feat(security): implement security module (7/20)
 ## 2022-10-29 12:52:11 - feat(api): implement api feature (3/20)
+## 2022-10-29 17:13:08 - feat(docs): create docs handler (12/20)
