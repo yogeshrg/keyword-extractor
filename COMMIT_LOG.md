@@ -33,3 +33,4 @@
 ## 2023-01-22 11:05:47 - feat(config): implement config feature (12/20)
 ## 2023-02-18 11:31:55 - feat(log): implement log module (10/20)
 ## 2023-02-27 21:30:27 - feat(alert): add alert endpoint
+## 2023-04-02 16:30:01 - feat(api): add api endpoint (14/20)
