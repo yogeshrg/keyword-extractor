@@ -34,3 +34,4 @@
 ## 2023-02-18 11:31:55 - feat(log): implement log module (10/20)
 ## 2023-02-27 21:30:27 - feat(alert): add alert endpoint
 ## 2023-04-02 16:30:01 - feat(api): add api endpoint (14/20)
+## 2023-05-28 15:19:15 - feat(core): add core support (17/20)
