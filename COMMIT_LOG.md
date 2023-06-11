@@ -35,3 +35,4 @@
 ## 2023-02-27 21:30:27 - feat(alert): add alert endpoint
 ## 2023-04-02 16:30:01 - feat(api): add api endpoint (14/20)
 ## 2023-05-28 15:19:15 - feat(core): add core support (17/20)
+## 2023-06-11 18:31:52 - feat(ci): add ci endpoint (5/20)
