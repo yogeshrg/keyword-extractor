@@ -36,3 +36,4 @@
 ## 2023-04-02 16:30:01 - feat(api): add api endpoint (14/20)
 ## 2023-05-28 15:19:15 - feat(core): add core support (17/20)
 ## 2023-06-11 18:31:52 - feat(ci): add ci endpoint (5/20)
+## 2023-07-01 20:56:18 - feat(data): implement data feature (12/20)
