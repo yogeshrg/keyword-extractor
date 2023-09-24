@@ -39,3 +39,4 @@
 ## 2023-07-01 20:56:18 - feat(data): implement data feature (12/20)
 ## 2023-07-02 10:30:55 - feat(ui): add ui endpoint (12/20)
 ## 2023-09-17 12:28:03 - feat(model): add model support (4/20)
+## 2023-09-24 16:21:44 - feat(docs): create docs handler (5/20)
