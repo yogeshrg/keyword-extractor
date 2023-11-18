@@ -42,3 +42,4 @@
 ## 2023-09-24 16:21:44 - feat(docs): create docs handler (5/20)
 ## 2023-09-27 16:15:35 - feat(core): create core handler
 ## 2023-11-12 11:45:08 - feat(auth): create auth handler (6/20)
+## 2023-11-18 18:42:04 - feat(core): create core handler (17/20)
