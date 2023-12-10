@@ -46,3 +46,4 @@
 ## 2023-11-18 19:40:21 - feat(data): add data support (20/20)
 ## 2023-11-26 14:14:34 - feat(ci): create ci handler (8/20)
 ## 2023-12-10 11:31:47 - feat(ui): implement ui module (19/20)
+## 2023-12-10 15:15:25 - feat(deploy): create deploy handler (12/20)
