@@ -45,3 +45,4 @@
 ## 2023-11-18 18:42:04 - feat(core): create core handler (17/20)
 ## 2023-11-18 19:40:21 - feat(data): add data support (20/20)
 ## 2023-11-26 14:14:34 - feat(ci): create ci handler (8/20)
+## 2023-12-10 11:31:47 - feat(ui): implement ui module (19/20)
