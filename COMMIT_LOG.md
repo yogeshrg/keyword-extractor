@@ -54,3 +54,4 @@
 ## 2024-04-27 21:26:15 - feat(test): add test endpoint (2/20)
 ## 2024-05-30 11:52:35 - feat(cache): add cache support
 ## 2024-06-15 19:26:23 - feat(build): add build support (15/20)
+## 2024-06-24 21:15:26 - feat(deploy): add deploy endpoint
