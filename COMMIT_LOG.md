@@ -57,3 +57,4 @@
 ## 2024-06-24 21:15:26 - feat(deploy): add deploy endpoint
 ## 2024-06-29 19:40:14 - feat(api): implement api module (6/20)
 ## 2024-07-06 14:22:42 - feat(metric): create metric handler (12/20)
+## 2024-07-14 15:52:34 - feat(auth): add auth support (4/20)
